@@ -36,7 +36,7 @@ const dashboard = {
             url: '/agentflows',
             icon: icons.IconUsersGroup,
             breadcrumbs: true,
-            isBeta: true
+            isBeta: false
         },
         {
             id: 'assistants',
